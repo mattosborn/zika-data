@@ -32,7 +32,7 @@ This repository also contains [archived PDFs](pdfs/) and [data extracted from th
 
 - [The global compendium of *Aedes aegypti* and *Ae. albopictus* occurrence](http://www.nature.com/articles/sdata201535). Published 2015-07-07 in *Nature Scientific Data*.
     - "A global geographic database of known occurrences of *Ae. aegypti* and *Ae. albopictus* between 1960 and 2014 [...] derived from peer-reviewed literature and unpublished studies including national entomological surveys and expert networks. [...] This is the first comprehensive global database of *Ae. aegypti* and *Ae. albopictus* occurrence, consisting of 19,930 and 22,137 geo-positioned occurrence records respectively."
-- [The global distribution of the arbovirus vectors Aedes aegypti and Ae. albopictus](http://elifesciences.org/content/early/2015/06/29/eLife.08347). Published 2015-06-30 in *eLIFE*
+- [The global distribution of the arbovirus vectors Aedes aegypti and Ae. albopictus](http://elifesciences.org/content/early/2015/06/29/eLife.08347). csv data [here](http://datadryad.org/resource/doi:10.5061/dryad.47v3c). Published 2015-06-30 in *eLIFE*
     - [...] Here we compile the largest contemporary database for both species and pair it with relevant environmental variables predicting their global distribution. We show Aedes distributions to be the widest ever recorded; now extensive in all continents, including North America and Europe. These maps will help define the spatial limits of current autochthonous transmission of dengue and chikungunya viruses. [...]
 
 ## Country-Specific Data
