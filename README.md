@@ -24,6 +24,8 @@ This repository also contains [archived PDFs](pdfs/) and [data extracted from th
 
 - HealthMap is using automated parsing to [map global Zika cases](http://www.healthmap.org/zika/) from online sources.
 
+- Wikipedia has a referenced table of figures for [Zika cases since 2015](https://en.wikipedia.org/wiki/Zika_virus_outbreak_in_the_Americas_(2015%E2%80%93present)).
+
 #### Mosquitoes
 
 [Per the WHO](http://www.who.int/csr/disease/zika/en/), "Zika virus is transmitted to people through the bite of an infected mosquito from the Aedes genus, mainly Aedes aegypti in tropical regions. This is the same mosquito that transmits dengue, chikungunya and yellow fever."
