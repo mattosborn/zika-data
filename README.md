@@ -35,6 +35,11 @@ This repository also contains [archived PDFs](pdfs/) and [data extracted from th
 - [The global distribution of the arbovirus vectors Aedes aegypti and Ae. albopictus](http://elifesciences.org/content/early/2015/06/29/eLife.08347). csv data [here](http://datadryad.org/resource/doi:10.5061/dryad.47v3c). Published 2015-06-30 in *eLIFE*
     - [...] Here we compile the largest contemporary database for both species and pair it with relevant environmental variables predicting their global distribution. We show Aedes distributions to be the widest ever recorded; now extensive in all continents, including North America and Europe. These maps will help define the spatial limits of current autochthonous transmission of dengue and chikungunya viruses. [...]
 
+#### Spread prediction
+
+- [Anticipating the international spread of Zika virus from Brazil](http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)00080-5/fulltext). Published 2016-01-16 in *The Lancet*
+    - A short paper on the anticipated spread of Zika using mosquito data, worldwide temperature proflies and international traveller destinations.
+
 ## Country-Specific Data
 
 #### Brazil
